@@ -1,0 +1,4 @@
+[Front-End (Client)]            <===>   [Back-End (Server/Terminal Project)]
+   - Input Field (Command)               - Flask/FastAPI exposes APIs
+   - Displays output                     - Runs terminal commands using subprocess
+   - Fetch API/WebSocket                 - Sends result back as JSON/WebSocket message
